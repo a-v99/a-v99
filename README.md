@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-I'm currently learning front-end development.  
-Focusing on React.js at the moment.
+I'm currently having fun.
+I want to work on things that make sense to me.
